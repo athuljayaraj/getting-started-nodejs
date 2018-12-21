@@ -1,14 +1,13 @@
-var express = require('express');
+var express = require("express");
+var bodyParser = require("body-parser");
+var routes = require("./routes/routes.js");
 var app = express();
-var cities = {cities:["Amsterdam","Berlin","New York","San Francisco","Tokyo"]}
 
-app.get('/', function(req, res){
-    res.writeHead(200, { 'Content-Type': 'application/json' });
-    res.write(JSON.stringify(cities));
-    res.end();
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
+
+routes(app);
+
+var server = app.listen(3000, function () {
+    console.log("app running on port.", server.address().port);
 });
-
-var port = process.env.PORT || 8080;
-app.listen(port);
-
-module.exports = app;

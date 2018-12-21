@@ -5,10 +5,12 @@
     "node": "0.6.x"
   },
   "dependencies": {
-    "express": "3.x",
+    "csv": "^0.3.7",
+    "express": "^3.21.2",
+    "fast-csv": "^2.4.1",
+    "mocha": "1.6.0",
     "nodeunit": "0.7.4",
-    "supertest": "0.4.0",
-    "mocha": "1.6.0"
+    "supertest": "0.4.0"
   },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha",

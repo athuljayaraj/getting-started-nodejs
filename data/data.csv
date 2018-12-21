@@ -1,0 +1,30 @@
+Context,Sentiment Score,Operator,Circle,Channel ID,Date,Count,,,,
+88,28,Airtel,Andhra Pradesh,,,,,,,
+33,78,Jio,Arunachal Pradesh,,,,,,,
+100,95,Jio,Assam,,,,,,,
+52,75,Airtel,Bihar,,,,,,,
+98,18,Vodafone,Goa,,,,,,,
+3,62,Airtel,Gujarat,,,,,,,
+20,59,Jio,Haryana,,,,,,,
+88,53,Vodafone,Himachal Pradesh,,,,,,Context,100
+79,51,BSNL,Jammu & Kashmir,,,,,,Sentiment Score,5
+93,53,Airtel,Karnataka,,,,,,Operator,5
+50,92,Vodafone,Kerala,,,,,,Circle,30
+85,35,Vodafone,Madhya Pradesh,,,,,,Channel ID,5
+82,94,BSNL,Maharashtra,,,,,,,
+96,52,Airtel,Manipur,,,,,,,
+4,82,Jio,Meghalaya,,,,,,,
+42,77,Vodafone,Mizoram,,,,,,,
+29,36,BSNL,Nagaland,,,,,,,
+85,41,Airtel,Orissa,,,,,,,
+62,93,Vodafone,Punjab,,,,,,,
+44,9,Jio,Rajasthan,,,,,,,
+81,45,BSNL,Sikkim,,,,,,,
+21,71,Vodafone,Tamil Nadu,,,,,,,
+43,55,Airtel,Tripura,,,,,,,
+63,1,BSNL,Uttar Pradesh,,,,,,,
+33,11,Jio,West Bengal,,,,,,,
+78,54,Vodafone,Chhattisgarh,,,,,,,
+42,92,Airtel,Uttarakhand,,,,,,,
+1,46,BSNL,Jharkhand,,,,,,,
+4,44,Airtel,Telangana,,,,,,,
